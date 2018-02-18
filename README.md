@@ -1,2 +1,2 @@
 # Angular
-Learn Angualr 4 js
+Learn Angualr 4 js our first repository
